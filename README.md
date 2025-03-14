@@ -4,7 +4,7 @@
 
 ## 📬 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/akash-capirala) – Let’s network and chat about tech!
-- [Email](mailto:cakash789@gmail.com) – Reach out for collaborations or just to say hi!
+- <a href="mailto:cakash789@gmail.com">Email</a> – Reach out for collaborations or just to say hi!
 - [Resume](https://drive.google.com/file/d/1wIYxlEJf7l892140zf_LZvZJyuhY8OeI/view?usp=sharing) – Check out my experience and skills.
 
 ## 💻 Tech Stack:
